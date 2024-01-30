@@ -1,0 +1,28 @@
+h1{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h2{
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    color: #0e12ff;
+}
+
+h3{
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    color: #4f0606;
+}
+
+p{
+    line-height: 150%;
+}
+
+img{
+    border: 5px solid #0073e6;
+    padding: 10px;
+    margin: 20px;
+    
+}
